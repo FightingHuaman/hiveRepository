@@ -1,0 +1,5 @@
+2019-03-26 10:56:33  [ main:0 ] - [ INFO ]  Supplied authorities: 10.244.11.226:10000
+2019-03-26 10:56:33  [ main:31 ] - [ INFO ]  Resolved authority: 10.244.11.226:10000
+2019-03-26 10:56:33  [ main:265 ] - [ INFO ]  Will try to open client transport with JDBC Uri: jdbc:hive2://10.244.11.226:10000/opdw4_226
+2019-03-26 10:56:54  [ main:21278 ] - [ INFO ]  Could not open client transport with JDBC Uri: jdbc:hive2://10.244.11.226:10000/opdw4_226
+2019-03-26 10:56:54  [ main:21294 ] - [ INFO ]  this is my message:
